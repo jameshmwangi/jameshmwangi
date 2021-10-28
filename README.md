@@ -10,6 +10,11 @@
 
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   37 mins         ████████████░░░░░░░░░░░░░   47.58 % 
+Other        24 mins         ████████░░░░░░░░░░░░░░░░░   31.35 % 
+HTML         16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 % 
+```
 <!--END_SECTION:waka-->
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=jameshmwangi&theme=onedark&no-bg=false&count_private=true)](https://github.com/jameshmwangi/jameshmwangi)
