@@ -17,9 +17,7 @@ HTML                  █████▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=jameshmwangi&theme=onedark&no-bg=false&count_private=true)](https://github.com/jameshmwangi/jameshmwangi)
-### Github Stats
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameshmwangi&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 ### Github extra pins
 
